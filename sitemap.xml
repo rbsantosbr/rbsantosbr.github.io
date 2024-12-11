@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://rbsantosbr.github.io/posts/</loc>
     <lastmod>2024-12-05T16:54:32-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://rbsantosbr.github.io/</loc>
     <lastmod>2024-12-05T16:54:32-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categorias/</loc>
+    <loc>https://rbsantosbr.github.io/categorias/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</loc>
+    <loc>https://rbsantosbr.github.io/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iac/</loc>
+    <loc>https://rbsantosbr.github.io/tags/iac/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/proxmox/</loc>
+    <loc>https://rbsantosbr.github.io/tags/proxmox/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://rbsantosbr.github.io/tags/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/terraform/</loc>
+    <loc>https://rbsantosbr.github.io/tags/terraform/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categorias/terraform/</loc>
+    <loc>https://rbsantosbr.github.io/categorias/terraform/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://rbsantosbr.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://rbsantosbr.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://rbsantosbr.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/search.en/</loc>
+    <loc>https://rbsantosbr.github.io/search.en/</loc>
   </url>
 </urlset>
