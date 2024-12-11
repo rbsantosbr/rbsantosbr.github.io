@@ -6,17 +6,8 @@
     <description>Recent content on Roberto Santos</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 05 Dec 2024 16:54:32 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 18:35:48 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Criando métricas personalizadas para o Prometheus com o SNMP Exporter</title>
-      <link>http://localhost:1313/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</link>
-      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
-      <guid>http://localhost:1313/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</guid>
-      <description>&lt;p&gt;Fala pessoal,&lt;br&gt;
-Recentemente me deparei com o desafio de coletar as métricas de um equipamento via SNMP, e expôr essas métricas no Prometheus. Como solução encontrei o componente snmp_exporter, que permite a captura destes dados e formata de acordo com o requerido pelo &lt;del&gt;Prometheus&lt;/del&gt;.&lt;/p&gt;
-&lt;p&gt;Neste post vamos aprender a extrair métricas customizadas a partir de uma Base de Gerenciamento de informações (Management Information Base) SNMP - MIB, criar um arquivo de configuração snmp.yml para a coleta de métricas pelo snmp_exporter, e expôr essas métricas no prometheus.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Gerenciando recursos do Proxmox com o Terraform</title>
       <link>http://localhost:1313/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</link>
@@ -25,26 +16,6 @@ Recentemente me deparei com o desafio de coletar as métricas de um equipamento 
       <description>&lt;p&gt;O Proxmox Virtual Environment é uma plataforma de virtualização de código aberto, que permite a criação e gerenciamento de máquinas virtuais e/ou contêneres, através da sua interface intuitiva e amigável.&lt;/p&gt;
 &lt;p&gt;O &lt;em&gt;Terraform provider&lt;/em&gt; &lt;strong&gt;bpg/proxmox&lt;/strong&gt; possui a capacidade de controlar diversos recursos desta plataforma, como por exemplo, usuários, roles, upload de arquivos, snippets, vlans, etc.&lt;/p&gt;
 &lt;p&gt;Neste post veremos como fazer a configuração deste provider, inicialmente, com as credenciais de super usuário (root), até a criação de um usuário com as permissões necessárias para gerenciar os recursos do proxmox.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sobre Mim</title>
-      <link>http://localhost:1313/sobre/</link>
-      <pubDate>Tue, 19 Nov 2024 18:45:00 -0300</pubDate>
-      <guid>http://localhost:1313/sobre/</guid>
-      <description>&lt;h3 id=&#34;pt-br&#34;&gt;PT-BR&lt;/h3&gt;
-&lt;p&gt;Eu sou o Roberto. Há mais de 10 anos estou mergulhado no fascinante mundo de infraestrutura e operações de TI,
-onde tive o privilégio de liderar e participar de projetos desafiadores. Minhas habilidades de trabalho em equipe e proatividade me permitiram contribuir efetivamente com equipes multidisciplinares e entregar resultados consistentes.&lt;/p&gt;
-&lt;p&gt;Com formação em Ciências da Computação pela Devry Ruy Barbosa, sou um entusiasta da tecnologia, onde exploro o mundo DevOps/ SRE, buscando resolver problemas do mundo real através de Automação, Infraestrutura como Código - IaC, Containers, Observabilidade, Computação em Nuvem, etc. E desde então tenho aperfeiçoado as minhas habilidades através de cursos, certificações, eventos de tecnologia e aplicação do conhecimento em meu laboratório de práticas.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 19 Nov 2024 18:44:00 -0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h3 id=&#34;en&#34;&gt;EN&lt;/h3&gt;
-&lt;p&gt;Eu sou o Roberto. Há mais de 10 anos estou mergulhado no fascinante mundo de infraestrutura e operações de TI,
-onde tive o privilégio de liderar e participar de projetos desafiadores. Minhas habilidades de trabalho em equipe e proatividade me permitiram contribuir efetivamente com equipes multidisciplinares e entregar resultados consistentes.&lt;/p&gt;
-&lt;p&gt;Com formação em Ciências da Computação pela Devry Ruy Barbosa, sou um entusiasta da tecnologia, onde exploro o mundo DevOps/ SRE, buscando resolver problemas do mundo real através de Automação, Infraestrutura como Código - IaC, Containers, Observabilidade, Computação em Nuvem, etc. E desde então tenho aperfeiçoado as minhas habilidades através de cursos, certificações, eventos de tecnologia e aplicação do conhecimento em meu laboratório de práticas.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
