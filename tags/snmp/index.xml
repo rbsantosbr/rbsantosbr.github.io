@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Snmp on Roberto Santos</title>
+    <link>http://localhost:1313/tags/snmp/</link>
+    <description>Recent content in Snmp on Roberto Santos</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Thu, 05 Dec 2024 16:54:32 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/snmp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Criando métricas personalizadas para o Prometheus com o SNMP Exporter</title>
+      <link>http://localhost:1313/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</link>
+      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>http://localhost:1313/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</guid>
+      <description>&lt;p&gt;Fala pessoal,&lt;br&gt;
+Recentemente me deparei com o desafio de coletar as métricas de um equipamento via SNMP, e expôr essas métricas no Prometheus. Como solução encontrei o componente snmp_exporter, que permite a captura destes dados e formata de acordo com o requerido pelo &lt;del&gt;Prometheus&lt;/del&gt;.&lt;/p&gt;
+&lt;p&gt;Neste post vamos aprender a extrair métricas customizadas a partir de uma Base de Gerenciamento de informações (Management Information Base) SNMP - MIB, criar um arquivo de configuração snmp.yml para a coleta de métricas pelo snmp_exporter, e expôr essas métricas no prometheus.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
