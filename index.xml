@@ -17,5 +17,15 @@
 &lt;p&gt;O &lt;em&gt;Terraform provider&lt;/em&gt; &lt;strong&gt;bpg/proxmox&lt;/strong&gt; possui a capacidade de controlar diversos recursos desta plataforma, como por exemplo, usuários, roles, upload de arquivos, snippets, vlans, etc.&lt;/p&gt;
 &lt;p&gt;Neste post veremos como fazer a configuração deste provider, inicialmente, com as credenciais de super usuário (root), até a criação de um usuário com as permissões necessárias para gerenciar os recursos do proxmox.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Sobre Mim</title>
+      <link>https://rbsantosbr.github.io/sobre/</link>
+      <pubDate>Tue, 19 Nov 2024 18:45:00 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/sobre/</guid>
+      <description>&lt;h3 id=&#34;pt-br&#34;&gt;PT-BR&lt;/h3&gt;
+&lt;p&gt;Eu sou o Roberto. Há mais de 10 anos estou mergulhado no fascinante mundo de infraestrutura e operações de TI,
+onde tive o privilégio de liderar e participar de projetos desafiadores. Minhas habilidades de trabalho em equipe e proatividade me permitiram contribuir efetivamente com equipes multidisciplinares e entregar resultados consistentes.&lt;/p&gt;
+&lt;p&gt;Com formação em Ciências da Computação pela Devry Ruy Barbosa, sou um entusiasta da tecnologia, onde exploro o mundo DevOps/ SRE, buscando resolver problemas do mundo real através de Automação, Infraestrutura como Código - IaC, Containers, Observabilidade, Computação em Nuvem, etc. E desde então tenho aperfeiçoado as minhas habilidades através de cursos, certificações, eventos de tecnologia e aplicação do conhecimento em meu laboratório de práticas.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
