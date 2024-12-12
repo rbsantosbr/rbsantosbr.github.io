@@ -2,58 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categorias/</loc>
+    <loc>https://rbsantosbr.github.io/posts/</loc>
     <lastmod>2024-12-05T16:54:32-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</loc>
+    <loc>https://rbsantosbr.github.io/</loc>
     <lastmod>2024-12-05T16:54:32-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/exporter/</loc>
-    <lastmod>2024-12-05T16:54:32-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/m%C3%A9tricas/</loc>
-    <lastmod>2024-12-05T16:54:32-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-05T16:54:32-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/prometheus/</loc>
-    <lastmod>2024-12-05T16:54:32-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categorias/prometheus/</loc>
-    <lastmod>2024-12-05T16:54:32-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-05T16:54:32-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/snmp/</loc>
-    <lastmod>2024-12-05T16:54:32-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-05T16:54:32-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</loc>
+    <loc>https://rbsantosbr.github.io/categorias/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iac/</loc>
+    <loc>https://rbsantosbr.github.io/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/proxmox/</loc>
+    <loc>https://rbsantosbr.github.io/tags/iac/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/terraform/</loc>
+    <loc>https://rbsantosbr.github.io/tags/proxmox/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categorias/terraform/</loc>
+    <loc>https://rbsantosbr.github.io/tags/</loc>
     <lastmod>2024-12-01T18:35:48-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sobre/</loc>
+    <loc>https://rbsantosbr.github.io/tags/terraform/</loc>
+    <lastmod>2024-12-01T18:35:48-03:00</lastmod>
+  </url><url>
+    <loc>https://rbsantosbr.github.io/categorias/terraform/</loc>
+    <lastmod>2024-12-01T18:35:48-03:00</lastmod>
+  </url><url>
+    <loc>https://rbsantosbr.github.io/sobre/</loc>
     <lastmod>2024-11-19T18:45:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/arquivos/</loc>
+    <loc>https://rbsantosbr.github.io/arquivos/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://rbsantosbr.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://rbsantosbr.github.io/search/</loc>
   </url>
 </urlset>

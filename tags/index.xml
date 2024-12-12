@@ -2,59 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Roberto Santos</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://rbsantosbr.github.io/tags/</link>
     <description>Recent content in Tags on Roberto Santos</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 05 Dec 2024 16:54:32 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Exporter</title>
-      <link>http://localhost:1313/tags/exporter/</link>
-      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
-      <guid>http://localhost:1313/tags/exporter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Métricas</title>
-      <link>http://localhost:1313/tags/m%C3%A9tricas/</link>
-      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
-      <guid>http://localhost:1313/tags/m%C3%A9tricas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prometheus</title>
-      <link>http://localhost:1313/tags/prometheus/</link>
-      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
-      <guid>http://localhost:1313/tags/prometheus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Snmp</title>
-      <link>http://localhost:1313/tags/snmp/</link>
-      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
-      <guid>http://localhost:1313/tags/snmp/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 01 Dec 2024 18:35:48 -0300</lastBuildDate>
+    <atom:link href="https://rbsantosbr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iac</title>
-      <link>http://localhost:1313/tags/iac/</link>
+      <link>https://rbsantosbr.github.io/tags/iac/</link>
       <pubDate>Sun, 01 Dec 2024 18:35:48 -0300</pubDate>
-      <guid>http://localhost:1313/tags/iac/</guid>
+      <guid>https://rbsantosbr.github.io/tags/iac/</guid>
       <description></description>
     </item>
     <item>
       <title>Proxmox</title>
-      <link>http://localhost:1313/tags/proxmox/</link>
+      <link>https://rbsantosbr.github.io/tags/proxmox/</link>
       <pubDate>Sun, 01 Dec 2024 18:35:48 -0300</pubDate>
-      <guid>http://localhost:1313/tags/proxmox/</guid>
+      <guid>https://rbsantosbr.github.io/tags/proxmox/</guid>
       <description></description>
     </item>
     <item>
       <title>Terraform</title>
-      <link>http://localhost:1313/tags/terraform/</link>
+      <link>https://rbsantosbr.github.io/tags/terraform/</link>
       <pubDate>Sun, 01 Dec 2024 18:35:48 -0300</pubDate>
-      <guid>http://localhost:1313/tags/terraform/</guid>
+      <guid>https://rbsantosbr.github.io/tags/terraform/</guid>
       <description></description>
     </item>
   </channel>
