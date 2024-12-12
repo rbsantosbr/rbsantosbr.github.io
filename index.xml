@@ -6,8 +6,17 @@
     <description>Recent content on Roberto Santos</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 01 Dec 2024 18:35:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 16:54:32 -0300</lastBuildDate>
     <atom:link href="https://rbsantosbr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Criando métricas personalizadas para o Prometheus com o SNMP Exporter</title>
+      <link>https://rbsantosbr.github.io/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</link>
+      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</guid>
+      <description>&lt;p&gt;Fala pessoal,&lt;br&gt;
+Recentemente me deparei com o desafio de coletar as métricas de um equipamento via SNMP, e expôr essas métricas no Prometheus. Como solução encontrei o componente snmp_exporter, que permite a captura destes dados e formata de acordo com o requerido pela ferramenta.&lt;/p&gt;
+&lt;p&gt;Neste post vamos aprender a extrair métricas customizadas a partir de uma Base de Gerenciamento de informações (Management Information Base) SNMP - MIB, criar um arquivo de configuração snmp.yml para a coleta de métricas pelo snmp_exporter, e expôr essas métricas no prometheus.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gerenciando recursos do Proxmox com o Terraform</title>
       <link>https://rbsantosbr.github.io/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</link>

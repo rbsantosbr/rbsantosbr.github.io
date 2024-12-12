@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Roberto Santos</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 01 Dec 2024 18:35:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 16:54:32 -0300</lastBuildDate>
     <atom:link href="https://rbsantosbr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafana</title>
+      <link>https://rbsantosbr.github.io/tags/grafana/</link>
+      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/grafana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Métricas</title>
+      <link>https://rbsantosbr.github.io/tags/m%C3%A9tricas/</link>
+      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/m%C3%A9tricas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prometheus</title>
+      <link>https://rbsantosbr.github.io/tags/prometheus/</link>
+      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snmp</title>
+      <link>https://rbsantosbr.github.io/tags/snmp/</link>
+      <pubDate>Thu, 05 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/snmp/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Iac</title>
       <link>https://rbsantosbr.github.io/tags/iac/</link>
