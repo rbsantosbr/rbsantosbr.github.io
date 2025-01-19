@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Roberto Santos</title>
+    <link>https://rbsantosbr.github.io/</link>
+    <description>Recent content on Roberto Santos</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 15 Dec 2024 16:54:32 -0300</lastBuildDate>
+    <atom:link href="https://rbsantosbr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Criando métricas personalizadas para o Prometheus com o SNMP Exporter</title>
+      <link>https://rbsantosbr.github.io/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</link>
+      <pubDate>Sun, 15 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</guid>
+      <description>&lt;p&gt;Fala pessoal,&lt;br&gt;
+Recentemente me deparei com o desafio de coletar as métricas de um equipamento via protocolo SNMP, e expôr essas métricas no Prometheus. Como solução encontrei o componente snmp_exporter, que permite a coleta das métricas SNMP e convertem no modelo de dados utilizado pelo Prometheus.&lt;/p&gt;
+&lt;p&gt;Neste post vamos aprender a extrair métricas customizadas a partir de uma Base de Gerenciamento de informações (Management Information Base - MIB) SNMP, criar um arquivo de configuração snmp.yml para a coleta de métricas pelo snmp_exporter, e expôr essas métricas no prometheus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gerenciando recursos do Proxmox com o Terraform</title>
+      <link>https://rbsantosbr.github.io/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</link>
+      <pubDate>Sun, 01 Dec 2024 18:35:48 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</guid>
+      <description>&lt;p&gt;O Proxmox Virtual Environment, comunmente chamado de proxmox, é uma plataforma de virtualização de código aberto, que permite a criação e gerenciamento de máquinas virtuais e/ou contêneres, através da sua interface intuitiva e amigável.&lt;/p&gt;
+&lt;p&gt;O &lt;em&gt;Terraform provider&lt;/em&gt; &lt;strong&gt;bpg/proxmox&lt;/strong&gt; possui a capacidade de controlar diversos recursos desta plataforma, como por exemplo, usuários, roles, upload de arquivos, snippets, vlans, etc.&lt;/p&gt;
+&lt;p&gt;Neste post veremos como fazer a configuração deste provider, começando com as credenciais de super usuário (root), até a criação de um usuário com as permissões necessárias para gerenciar os recursos do proxmox.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://rbsantosbr.github.io/sobre/</link>
+      <pubDate>Tue, 19 Nov 2024 18:45:00 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/sobre/</guid>
+      <description>&lt;p&gt;Sou um Analista de Sistemas que trabalha há 12 anos com Infraestrutura e Operações de TI, onde tive o privilégio de participar de projetos desafiadores.&lt;/p&gt;
+&lt;p&gt;Minhas habilidades de trabalho em equipe e proatividade permitiram contribuir efetivamente com equipes multidisciplinares e entregar resultados consistentes.&lt;/p&gt;
+&lt;p&gt;Atualmente trabalho na &lt;a href=&#34;https://centralit.com.br&#34;&gt;CentralIT&lt;/a&gt;, como DevOps Engineer com foco em monitoramento e observabilidade.&lt;/p&gt;
+&lt;p&gt;Bacharel em Ciências da Computação pela Devry Ruy Barbosa, sou um entusiasta da cultura DevOps/ SRE, sempre interessado em novas tecnologias, entendendo como estas tecnologias funcionam e como podem ser utilizadas para resolver problemas do mundo real.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

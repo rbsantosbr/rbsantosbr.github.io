@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Roberto Santos</title>
+    <link>https://rbsantosbr.github.io/tags/</link>
+    <description>Recent content in Tags on Roberto Santos</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 15 Dec 2024 16:54:32 -0300</lastBuildDate>
+    <atom:link href="https://rbsantosbr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafana</title>
+      <link>https://rbsantosbr.github.io/tags/grafana/</link>
+      <pubDate>Sun, 15 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/grafana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Métricas</title>
+      <link>https://rbsantosbr.github.io/tags/m%C3%A9tricas/</link>
+      <pubDate>Sun, 15 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/m%C3%A9tricas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prometheus</title>
+      <link>https://rbsantosbr.github.io/tags/prometheus/</link>
+      <pubDate>Sun, 15 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snmp</title>
+      <link>https://rbsantosbr.github.io/tags/snmp/</link>
+      <pubDate>Sun, 15 Dec 2024 16:54:32 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/snmp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iac</title>
+      <link>https://rbsantosbr.github.io/tags/iac/</link>
+      <pubDate>Sun, 01 Dec 2024 18:35:48 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/iac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proxmox</title>
+      <link>https://rbsantosbr.github.io/tags/proxmox/</link>
+      <pubDate>Sun, 01 Dec 2024 18:35:48 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/proxmox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terraform</title>
+      <link>https://rbsantosbr.github.io/tags/terraform/</link>
+      <pubDate>Sun, 01 Dec 2024 18:35:48 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/tags/terraform/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
