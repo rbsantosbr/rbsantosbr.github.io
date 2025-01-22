@@ -6,16 +6,16 @@
     <description>Recent content in Proxmox on Roberto Santos</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 01 Dec 2024 18:35:48 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 18:35:48 -0300</lastBuildDate>
     <atom:link href="https://rbsantosbr.github.io/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gerenciando recursos do Proxmox com o Terraform</title>
       <link>https://rbsantosbr.github.io/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</link>
-      <pubDate>Sun, 01 Dec 2024 18:35:48 -0300</pubDate>
+      <pubDate>Sun, 08 Dec 2024 18:35:48 -0300</pubDate>
       <guid>https://rbsantosbr.github.io/posts/gerenciando-recursos-do-proxmox-com-o-terraform/</guid>
       <description>&lt;p&gt;O Proxmox Virtual Environment, comunmente chamado de proxmox, é uma plataforma de virtualização de código aberto, que permite a criação e gerenciamento de máquinas virtuais e/ou contêneres, através da sua interface intuitiva e amigável.&lt;/p&gt;
 &lt;p&gt;O &lt;em&gt;Terraform provider&lt;/em&gt; &lt;strong&gt;bpg/proxmox&lt;/strong&gt; possui a capacidade de controlar diversos recursos desta plataforma, como por exemplo, usuários, roles, upload de arquivos, snippets, vlans, etc.&lt;/p&gt;
-&lt;p&gt;Neste post veremos como fazer a configuração deste provider, começando com as credenciais de super usuário (root), até a criação de um usuário com as permissões necessárias para gerenciar os recursos do proxmox.&lt;/p&gt;</description>
+&lt;p&gt;Neste primeiro post veremos como fazer a configuração deste provider, criando um usuário com as credenciais necessárias para gerenciar os recursos do proxmox, através do terraform.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
