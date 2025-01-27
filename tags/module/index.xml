@@ -6,8 +6,16 @@
     <description>Recent content in Module on Roberto Santos</description>
     <generator>Hugo -- 0.139.0</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Jan 2025 11:12:06 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 23:13:24 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/module/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Otimizar o provisionamento de recursos de infraestrutura utilizando módulos Terraform</title>
+      <link>http://localhost:1313/posts/otimizar-o-provisionamento-de-infraestrutura-utilizando-modulos-terraform/</link>
+      <pubDate>Sat, 25 Jan 2025 23:13:24 -0300</pubDate>
+      <guid>http://localhost:1313/posts/otimizar-o-provisionamento-de-infraestrutura-utilizando-modulos-terraform/</guid>
+      <description>&lt;p&gt;Utilizar as práticas de desenvolvimento de software no provisionamento e gerenciamento de infraestruturas tecnológicas, é um dos principais pilares da Infraestrutura como Código - IaC. Isso nos permite criar componentes consistentes, testáveis e reutilizáveis.&lt;/p&gt;
+&lt;p&gt;Em uma linguagem de programação de uso geral, assim como o Python, se você tem o mesmo trecho de código escrito em diversas partes do seu projeto, você pode colocá-lo dentro de uma função e reutilizar em todos os locais:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Criar módulos do Terraform para provisionamento de recursos no Proxmox</title>
       <link>http://localhost:1313/posts/criar-modulos-do-terraform-para-gestao-de-recursos-no-proxmox/</link>
