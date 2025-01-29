@@ -31,9 +31,20 @@ Recentemente me deparei com o desafio de coletar as métricas de um equipamento 
       <link>https://rbsantosbr.github.io/sobre/</link>
       <pubDate>Tue, 19 Nov 2024 18:45:00 -0300</pubDate>
       <guid>https://rbsantosbr.github.io/sobre/</guid>
-      <description>&lt;p&gt;Sou um Analista de Sistemas que trabalha há 12 anos com Infraestrutura e Operações de TI, onde tive o privilégio de participar de projetos desafiadores. Minhas habilidades de trabalho em equipe e proatividade permitiram contribuir efetivamente com equipes multidisciplinares e entregar resultados consistentes.&lt;/p&gt;
-&lt;p&gt;Atualmente trabalho na &lt;a href=&#34;https://centralit.com.br&#34;&gt;CentralIT&lt;/a&gt;, como DevOps Engineer com foco em monitoramento e observabilidade.&lt;/p&gt;
-&lt;p&gt;Bacharel em Ciências da Computação pela Devry Ruy Barbosa, sou um entusiasta da cultura DevOps/ SRE, sempre interessado em novas tecnologias, entendendo como estas tecnologias funcionam e como podem ser utilizadas para resolver problemas do mundo real.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Sou um profissional com mais de 15 anos de atuação na área corporativa, dos quais atuo há 12 anos como analista de infraestrutura de TI com foco em otimização de processos utilizando automação.&lt;/p&gt;
+&lt;p&gt;Possuo conhecimentos em:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Containers: Docker e Kubernetes;&lt;/li&gt;
+&lt;li&gt;CI/ CD: Gitlab CI;&lt;/li&gt;
+&lt;li&gt;Cloud Computing AWS e Oracle Cloud;&lt;/li&gt;
+&lt;li&gt;Gerencia de configuração: Ansible;&lt;/li&gt;
+&lt;li&gt;Infra as Code: Terraform;&lt;/li&gt;
+&lt;li&gt;Versionamento: Git/ Gitlab;&lt;/li&gt;
+&lt;li&gt;Monitoramento e Observabilidade: Zabbix, Prometheus, Grafana;&lt;/li&gt;
+&lt;li&gt;Sistemas operacionais: Linux e Windows;&lt;/li&gt;
+&lt;li&gt;Servidores Web IIS, Apache e Nginx.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Certificações:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
