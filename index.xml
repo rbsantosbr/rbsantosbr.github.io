@@ -4,7 +4,7 @@
     <title>Roberto Santos</title>
     <link>https://rbsantosbr.github.io/</link>
     <description>Recent content on Roberto Santos</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 15 Dec 2024 16:54:32 -0300</lastBuildDate>
     <atom:link href="https://rbsantosbr.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -31,20 +31,8 @@ Recentemente me deparei com o desafio de coletar as métricas de um equipamento 
       <link>https://rbsantosbr.github.io/sobre/</link>
       <pubDate>Tue, 19 Nov 2024 18:45:00 -0300</pubDate>
       <guid>https://rbsantosbr.github.io/sobre/</guid>
-      <description>&lt;p&gt;Sou um profissional com mais de 15 anos de atuação na área corporativa, dos quais atuo há 12 anos como analista de infraestrutura de TI com foco em otimização de processos utilizando automação.&lt;/p&gt;
-&lt;p&gt;Possuo conhecimentos em:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Containers: Docker e Kubernetes;&lt;/li&gt;
-&lt;li&gt;CI/ CD: Gitlab CI;&lt;/li&gt;
-&lt;li&gt;Cloud Computing AWS e Oracle Cloud;&lt;/li&gt;
-&lt;li&gt;Gerencia de configuração: Ansible;&lt;/li&gt;
-&lt;li&gt;Infra as Code: Terraform;&lt;/li&gt;
-&lt;li&gt;Versionamento: Git/ Gitlab;&lt;/li&gt;
-&lt;li&gt;Monitoramento e Observabilidade: Zabbix, Prometheus, Grafana;&lt;/li&gt;
-&lt;li&gt;Sistemas operacionais: Linux e Windows;&lt;/li&gt;
-&lt;li&gt;Servidores Web IIS, Apache e Nginx.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Certificações:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Como Analista DevOps, minha paixão é otimizar processos e impulsionar a melhoria contínua, buscando constantemente novas abordagens para elevar a eficiência, escalabilidade e confiabilidade em ambientes de produção. Meu compromisso é entregar resultados de alta qualidade visando otimizar fluxos de trabalho e gerar resultados tangíveis para o negócio.&lt;/p&gt;
+&lt;p&gt;Graduado em Ciências da Computação pela Uniruy Wyden, tenho mais de 12 anos de experiência como analista de infraestrutura e operações de TI, colaborando com equipes multidisciplinares, desenvolvendo soluções para os desafios dos clientes e organizacionais, e onde pude desenvolver habilidades com gerência de configuração, pipelines de CI/CD, monitoramento, troubleshooting em ambientes Linux e Windows, dentre outras.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
