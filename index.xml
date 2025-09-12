@@ -6,8 +6,16 @@
     <description>Recent content on Roberto Santos</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 15 Dec 2024 16:54:32 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 10:35:00 -0300</lastBuildDate>
     <atom:link href="https://rbsantosbr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre</title>
+      <link>https://rbsantosbr.github.io/sobre/</link>
+      <pubDate>Fri, 12 Sep 2025 10:35:00 -0300</pubDate>
+      <guid>https://rbsantosbr.github.io/sobre/</guid>
+      <description>&lt;p&gt;Como Engenheiro DevOps, minha paixão é otimizar processos e impulsionar a melhoria contínua, buscando constantemente novas abordagens para elevar a eficiência, escalabilidade e confiabilidade em ambientes de produção. Meu compromisso é entregar resultados de alta qualidade visando otimizar fluxos de trabalho e gerar resultados tangíveis para o negócio.&lt;/p&gt;
+&lt;p&gt;Graduado em Ciências da Computação pela Uniruy Wyden, tenho mais de 12 anos de experiência como analista de infraestrutura e operações de TI, atuando com equipes multidisciplinares, desenvolvendo soluções para os desafios organizacionais, onde pude desenvolver habilidades como: colaboração, comunicação, resiliência, proatividade, pensamento crítico, dentre outras.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Criando métricas personalizadas para o Prometheus com o SNMP Exporter</title>
       <link>https://rbsantosbr.github.io/posts/criando-metricas-personalizadas-para-o-prometheus-snmp-exporter/</link>
@@ -25,14 +33,6 @@ Recentemente me deparei com o desafio de coletar as métricas de um equipamento 
       <description>&lt;p&gt;O Proxmox Virtual Environment, comunmente chamado de proxmox, é uma plataforma de virtualização de código aberto, que permite a criação e gerenciamento de máquinas virtuais e/ou contêneres, através da sua interface intuitiva e amigável.&lt;/p&gt;
 &lt;p&gt;O &lt;em&gt;Terraform provider&lt;/em&gt; &lt;strong&gt;bpg/proxmox&lt;/strong&gt; possui a capacidade de controlar diversos recursos desta plataforma, como por exemplo, usuários, roles, upload de arquivos, snippets, vlans, etc.&lt;/p&gt;
 &lt;p&gt;Neste primeiro post veremos como fazer a configuração deste provider, criando um usuário com as credenciais necessárias para gerenciar os recursos do proxmox, através do terraform.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sobre</title>
-      <link>https://rbsantosbr.github.io/sobre/</link>
-      <pubDate>Tue, 19 Nov 2024 18:45:00 -0300</pubDate>
-      <guid>https://rbsantosbr.github.io/sobre/</guid>
-      <description>&lt;p&gt;Como Analista DevOps, minha paixão é otimizar processos e impulsionar a melhoria contínua, buscando constantemente novas abordagens para elevar a eficiência, escalabilidade e confiabilidade em ambientes de produção. Meu compromisso é entregar resultados de alta qualidade visando otimizar fluxos de trabalho e gerar resultados tangíveis para o negócio.&lt;/p&gt;
-&lt;p&gt;Graduado em Ciências da Computação pela Uniruy Wyden, tenho mais de 12 anos de experiência como analista de infraestrutura e operações de TI, atuando com equipes multidisciplinares, desenvolvendo soluções para os desafios dos clientes e organizacionais, e onde pude desenvolver habilidades como: colaboração, comunicação, resiliência, proatividade, pensamento crítico, dentre outras.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
